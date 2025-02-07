@@ -1,0 +1,25 @@
+pipeline {
+    agent any
+    stages {
+        stage('Clone Repository') {
+            steps {
+                git branch: 'main', credentialsId: 'indrajeetk8', url: 'https://github.com/indrajeetk8/indrajeetk8/'
+            }
+        }
+        stage('Install Dependencies') {
+            steps {
+                sh 'pip install -r requirements.txt'
+            }
+        }
+        stage('Run Tests') {
+            steps {
+                sh 'pytest'
+            }
+        }
+        stage('Deploy') {
+            steps {
+                sh 'python app.py'
+            }
+        }
+    }
+}
