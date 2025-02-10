@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Indrajeet Singh</h1>
-<div align="center"> <img src="https://github.com/indrajeetk8/indrajeetk8/main/istockphoto-1332876002-612x612.jpg"> </div>
+<div align="center"> <img src="https://github.com/indrajeetk8/indrajeetk8/main/indrajeet.png.png"> </div>
 <h3 align="center">A passionate Devops Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indrajeetk8&label=Profile%20views&color=0e75b6&style=flat" alt="indrajeetk8" /> </p>
