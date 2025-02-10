@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Indrajeet Singh</h1>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/indrajeetk8/indrajeetk8.github.io/main/indrajeet.png.png" />
+  <img src="https://raw.githubusercontent.com/indrajeetk8/indrajeetk8.github.io/blob/main/indrajeet.png.png">
 </div>
 
 <h3 align="center">A passionate Devops Engineer</h3>
