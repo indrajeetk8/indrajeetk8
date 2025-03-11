@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Indrajeet Singh</h1>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/indrajeetk8/indrajeetk8.github.io/main/devops-cover.png" alt="Indrajeet Singh - DevOps Engineer" />
+  <img src="https://raw.githubusercontent.com/indrajeetk8/indrajeetk8/refs/heads/main/devops-cover.png.webp" />
 </div>
 
 <h3 align="center">A passionate DevOps Engineer</h3>
